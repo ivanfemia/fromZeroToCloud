@@ -1,6 +1,2 @@
-# fromZeroToCloud
-Assets' repository for the youtube series fromZeroToCloud https://tiny.cc/fromZerotoCloud
-
-
-
-All images are copyright to their respective owners and are used just for demo purpose.
+# Repository move to the official SAP Sample GitHub
+https://github.com/SAP-samples/sapcp-from-zero-to-cloud
